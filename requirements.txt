@@ -1,7 +1,7 @@
 geographiclib==1.50
 geopy==1.22.0
 limnoria==2020.4.11
-numpy==1.18.4
+numpy==1.22.0
 python-dateutil==2.8.1
 six==1.15.0
 timezonefinder==4.4.0
